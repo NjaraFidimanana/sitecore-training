@@ -1,16 +1,17 @@
 ﻿---
-ID: "4e904ed9-f8a1-5956-addb-d6c5ff15de72"
-Parent: "929613c3-77ac-4231-9ee0-ffdae3a450ea"
-Template: "061cba15-5474-4b91-8a06-17903b102b82"
-Path: /sitecore/content/JSS Sites/traineeA
+ID: "3d994745-8d1e-5f0e-8b2f-b72ca1d3b797"
+Parent: "039df89b-1521-5438-82b1-304057324bbb"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: "/sitecore/content/JSS Sites/traineeA/Components/Styleguide-SitecoreContext"
 SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/box_into.png
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
-  Value: "{82DC562C-E094-5467-BD98-7FF216E0D866}"
-- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
-  Hint: __Security
   Value: |
-    au|sitecore\JssImport|p*|+item:write|+item:delete|
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {1E7D5F97-3E92-59D0-B6A5-C438FCCC0F19}
 Languages:
 - Language: en
   Versions:
@@ -18,7 +19,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20210413T092529Z
+      Value: 20210413T092532Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -29,11 +30,11 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "36efc0ce-5ac0-4f9e-8a25-03f677bd4625"
+      Value: "4e0a4549-55cf-43b3-bf3a-52a2bb17d8bd"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\JssImport
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210413T092529Z
+      Value: 20210413T092532Z

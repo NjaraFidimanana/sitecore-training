@@ -1,8 +1,8 @@
 ﻿---
-ID: "6c4f1a01-ecd2-5d93-99c8-2a400402329a"
-Parent: "4e904ed9-f8a1-5956-addb-d6c5ff15de72"
+ID: "da1bdf27-9b6b-57eb-a325-c825e6a38c5b"
+Parent: "292bd204-56d2-56cf-833c-4350bb4c40d5"
 Template: "82dc562c-e094-5467-bd98-7ff216e0d866"
-Path: /sitecore/content/JSS Sites/traineeA/home
+Path: "/sitecore/content/JSS Sites/traineeA/home/graphql/sample-2"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
@@ -20,18 +20,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{450CBA45-9EB3-5EFC-9AAB-0922F16E3EE8}"
-              p:after="p[@uid='{73E59F5B-776E-5849-80A1-67A9DB2FDE26}']"
-              s:rname="HeroComponent"
-              s:ds="{C7847582-98ED-53E9-97B9-0D366F4EC3EB}"
-              s:id="{8BB96FD7-1308-5FFC-BD1E-24F13FF19E7B}"
-              s:par=""
-              s:ph="/jss-main" />
-            <r
-              uid="{7418112D-B1C0-53FE-9256-B807B16FE3F4}"
+              uid="{5C424448-2B30-5910-ABE7-5021B762D542}"
               p:after="*[1=2]"
               s:rname="ContentBlock"
-              s:ds="{85A1C1C7-9B99-5756-8355-3E0C8E7BD235}"
+              s:ds="{0D8E81D2-734F-51E3-8128-344F169A6016}"
               s:id="{537408B4-E3F6-56FF-8665-0D0214DCD1E7}"
               s:par=""
               s:ph="/jss-main" />
@@ -39,20 +31,20 @@ Languages:
         </r>
     - ID: "0e1e2d46-2bf4-5935-a503-b64ef6da7301"
       Hint: pageTitle
-      Value: Welcome to Sitecore JSS
+      Value: Sample 2 Page Title
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20210413T092532Z
+      Value: 20210413T092533Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1c695d96-0ad4-4463-81f6-e6155eca92c7"
+      Value: "ac7b4999-0541-407a-8ee2-aa937a90db32"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\JssImport
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210413T092532Z
+      Value: 20210413T092533Z

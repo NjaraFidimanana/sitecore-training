@@ -5,7 +5,7 @@
 			  "includes": [
 				{
 				  "name": "content",
-				  "path": "/sitecore/content/JSS Sites/Training/traineeA"
+				  "path": "/sitecore/content/JSS Sites/traineeA"
 				}
 			  ]
 	}
