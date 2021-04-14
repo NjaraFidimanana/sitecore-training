@@ -1,0 +1,12 @@
+{
+  "namespace": "Project.Training",
+  "references": ["Foundation.*"],
+  "items": {
+			  "includes": [
+				{
+				  "name": "content",
+				  "path": "/sitecore/content/JSS Sites/Training/traineeA"
+				}
+			  ]
+	}
+}

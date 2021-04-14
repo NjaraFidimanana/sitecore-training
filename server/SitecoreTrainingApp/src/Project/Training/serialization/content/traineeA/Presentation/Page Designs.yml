@@ -1,0 +1,32 @@
+﻿---
+ID: "d304e4d7-a44d-43ec-a5d8-2391d79bcfa7"
+Parent: "04733631-2803-4f9d-8295-1ef9ea928055"
+Template: "2009c5f8-5395-41d9-81e7-19e89dea25de"
+Path: /sitecore/content/JSS Sites/Training/traineeA/Presentation/Page Designs
+BranchID: "04362efe-d807-40f2-aa73-3e896466933f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{FF7A3A94-09AE-4E05-8364-7FC12A6ADE1A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210408T191202Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "baf139d8-3450-4ce9-8f95-19c964b81507"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210408T191202Z
