@@ -13,6 +13,9 @@ SharedFields:
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/traineeA/Datasource/Banner
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: /sitecore/content/JSS Sites/traineeA/Components/Banner Container
 Languages:
 - Language: en
   Versions:
@@ -23,11 +26,11 @@ Languages:
       Value: 20210408T141411Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1231acc2-eeec-42cf-91c9-c0f523c057c4"
+      Value: "885491fa-c702-4616-ada9-f810e69b90d5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210414T145725Z
+      Value: 20210414T151835Z

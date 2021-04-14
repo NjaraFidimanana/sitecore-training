@@ -9,7 +9,7 @@ SharedFields:
   Value: "jss-main"
 - ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
   Hint: __Read Only
-  Value: 1
+  Value: 
 - ID: "e391b526-d0c5-439d-803e-17512eae6222"
   Hint: Allowed Controls
   Value: |
@@ -18,6 +18,7 @@ SharedFields:
     {8D4F63FC-B8AF-50D1-8781-B150D5F496D3}
     {F14B9BCC-AD27-5A51-AD59-978BB00DD55A}
     {DD6DBCCA-5C53-5D29-B139-B7CEF08F57D2}
+    {CBE3D3FF-B80C-4C5D-A9E2-8EF9201208E5}
 Languages:
 - Language: en
   Fields:
@@ -40,11 +41,11 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f814e64a-c084-46b4-84b3-cd7935ed4f2a"
+      Value: "f17beac1-609f-4b33-9412-7340e46da956"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210413T092532Z
+      Value: 20210414T151249Z
