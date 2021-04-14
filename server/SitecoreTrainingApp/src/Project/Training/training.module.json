@@ -6,6 +6,26 @@
 				{
 				  "name": "content",
 				  "path": "/sitecore/content/JSS Sites/traineeA"
+				},
+				{
+					 "name": "System",
+					 "path": "/sitecore/system/Settings/Services/API Keys/Training Key"
+				},
+				{
+					"name": "Template",
+					 "path": "/sitecore/templates/Project/traineeA"
+				},
+				{
+					"name": "Rendering",
+					 "path": "/sitecore/layout/Renderings/Project/traineeA"
+				},
+				{
+					"name":"Layout",
+					"path": "/sitecore/layout/Layouts/Project/traineeA"
+				},
+				{
+					"name":"Placeholder",
+					"path": "/sitecore/layout/Placeholder Settings/Project/traineeA"
 				}
 			  ]
 	}
