@@ -15,10 +15,13 @@ SharedFields:
   Value: "/sitecore/templates/Project/traineeA/Styleguide-Tracking"
 - ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
   Hint: __Read Only
-  Value: 1
+  Value: 
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "./Page Components|/sitecore/content/JSS Sites/traineeA/Components/Styleguide-Tracking"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2600
 Languages:
 - Language: en
   Versions:
@@ -37,11 +40,11 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "206b2790-62d3-4877-a49b-d70fc7a6987d"
+      Value: "7eb3abe9-49a5-4f3c-bd08-ae3810dcb0fe"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210413T092535Z
+      Value: 20210415T142934Z

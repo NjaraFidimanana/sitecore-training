@@ -19,6 +19,9 @@ SharedFields:
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "./Page Components|/sitecore/content/JSS Sites/traineeA/Components/Styleguide-RouteFields"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2300
 Languages:
 - Language: en
   Versions:
@@ -37,11 +40,11 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "540d3231-ae8f-4c21-a699-a2b82cb36079"
+      Value: "7b751332-ec95-4d46-b908-21d3d20fa556"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210413T092535Z
+      Value: 20210415T142934Z

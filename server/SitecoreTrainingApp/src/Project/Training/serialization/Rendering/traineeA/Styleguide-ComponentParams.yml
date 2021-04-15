@@ -22,6 +22,9 @@ SharedFields:
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "./Page Components|/sitecore/content/JSS Sites/traineeA/Components/Styleguide-ComponentParams"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
 Languages:
 - Language: en
   Versions:
@@ -40,11 +43,11 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7d545f26-26dd-4f86-b62f-ec9b200a6db1"
+      Value: "14f8d6c3-a3d2-4d95-8ef8-1314f92353a3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210413T092535Z
+      Value: 20210415T142934Z
