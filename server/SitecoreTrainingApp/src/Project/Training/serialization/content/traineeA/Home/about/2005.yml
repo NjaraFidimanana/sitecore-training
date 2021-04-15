@@ -1,0 +1,44 @@
+﻿---
+ID: "27197937-78f8-4bef-82e2-72ceb243f260"
+Parent: "ad78b7c1-b64f-44a3-a3df-27af6b89d264"
+Template: "b6e44dea-071d-4093-be7a-223a21aa74e0"
+Path: /sitecore/content/JSS Sites/traineeA/home/about/2005
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210415T165425Z
+    - ID: "2c19c8c1-4e38-4719-a4aa-02d8521dc67f"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; text-align: center; color: #51575b;">LuxSE launches a self-regulated multilateral trading facility called the Euro MTF, a new type of market introduced by the EU Markets in Financial Instruments Directive (MIFiD).</span>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b98a0c43-d8a3-4903-b767-e14f21659580"
+    - ID: "b59043a1-fb55-4338-aa1d-82e42cf7da46"
+      Hint: Title
+      Value: 2005
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210415T165513Z
+    - ID: "ee7d00b5-9f74-4bdb-bcd3-41f939651973"
+      Hint: Image
+      Value: |
+        <image mediaid="{71926B69-FFBC-4985-A53E-D26984559416}" alt="a" height="238" width="500" hspace="" vspace="" />
