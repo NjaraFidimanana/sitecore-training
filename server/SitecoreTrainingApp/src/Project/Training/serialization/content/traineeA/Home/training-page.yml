@@ -23,7 +23,15 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{3C2B81C4-7E77-4DD4-AA5B-5997F91D5B91}"
+              uid="{C0C028D5-215A-4925-9B3C-A2726157C5AA}"
+              p:after="p[@uid='{73E59F5B-776E-5849-80A1-67A9DB2FDE26}']"
+              s:ds="{FB4A0F23-FAFD-4B62-9BBF-5A98B572A890}"
+              s:id="{7ED7F385-C97E-45E4-A5E5-0CE68F294EB2}"
+              s:par="class=Slider&amp;style=style1"
+              s:ph="jss-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{9EBD5918-B1C3-4879-9E46-8B0519054137}"
               p:after="*[1=2]"
               s:ds="{6DB0C6D8-A1AF-49A0-A88C-3F9AD941A8FF}"
               s:id="{CBE3D3FF-B80C-4C5D-A9E2-8EF9201208E5}"
@@ -31,6 +39,9 @@ Languages:
               s:ph="jss-main" />
           </d>
         </r>
+    - ID: "0e1e2d46-2bf4-5935-a503-b64ef6da7301"
+      Hint: pageTitle
+      Value: Training Page
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20210414T150845Z
@@ -47,11 +58,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "87310daf-19bb-45a0-a706-8cff5d650c8f"
+      Value: "2382e733-89ff-4e70-b426-3d1ce41334fa"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210414T151904Z
+      Value: 20210415T124714Z

@@ -1,8 +1,8 @@
 ﻿---
 ID: "6db0c6d8-a1af-49a0-a88c-3f9ad941a8ff"
-Parent: "7c96cf55-c4c7-4cd0-9535-318dac8adcb5"
+Parent: "cb043025-9eb6-4f43-844b-6aba26d17de3"
 Template: "17d27de5-06d0-413a-89f1-8fa1150c6778"
-Path: /sitecore/content/JSS Sites/traineeA/Components/Banner Container/Banner training
+Path: "/sitecore/content/JSS Sites/traineeA/home/training-page/Page Components/Banner training"
 Languages:
 - Language: en
   Versions:
@@ -14,23 +14,23 @@ Languages:
     - ID: "0a08f710-021a-41fb-af75-82368516d80b"
       Hint: Image
       Value: |
-        <image mediaid="{C2A18627-68C0-4D3F-8A36-D2E4E64DEB88}" />
+        <image mediaid="{C2A18627-68C0-4D3F-8A36-D2E4E64DEB88}" ></image>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20210414T151857Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cd61ee4d-ed2c-4229-91d1-db843dda3bba"
+      Value: "f6611cc0-6153-43b1-bc30-60943161e5c4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210414T152016Z
+      Value: 20210415T085606Z
     - ID: "dc61830b-9713-45fb-b0e1-c4131838e168"
       Hint: Title
       Value: JSS training
     - ID: "fe02f094-c5b9-4fed-9984-b723ede1da4f"
       Hint: Description
-      Value: Description
+      Value: Banner using datasource 

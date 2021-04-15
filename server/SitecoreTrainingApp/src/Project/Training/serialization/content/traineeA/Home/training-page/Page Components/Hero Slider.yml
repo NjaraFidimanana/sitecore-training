@@ -1,0 +1,28 @@
+﻿---
+ID: "fb4a0f23-fafd-4b62-9bbf-5a98b572a890"
+Parent: "cb043025-9eb6-4f43-844b-6aba26d17de3"
+Template: "182cd239-9d2e-4578-b6d0-bb1929096321"
+Path: "/sitecore/content/JSS Sites/traineeA/home/training-page/Page Components/Hero Slider"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22800e8c-44f7-4691-a95a-69c448615fce"
+      Hint: Hero Selection
+      Value: |
+        {B15F05DE-499B-4294-AB1B-987A73221EE7}
+        {F154A69E-5C97-4668-8503-24AEE3CE5827}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210415T093206Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7e4323c-75e4-4370-9299-91bb09ff57e3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210415T093401Z

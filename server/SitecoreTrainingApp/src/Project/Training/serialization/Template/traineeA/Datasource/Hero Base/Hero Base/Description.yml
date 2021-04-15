@@ -1,8 +1,8 @@
 ﻿---
 ID: "fe02f094-c5b9-4fed-9984-b723ede1da4f"
-Parent: "61a90f50-3666-48b5-ae3b-99a6a2b15dd9"
+Parent: "998c27ed-6cfe-4292-8e6b-40f24b681846"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/traineeA/Datasource/Banner/Banner/Description
+Path: /sitecore/templates/Project/traineeA/Datasource/Hero Base/Hero Base/Description
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type

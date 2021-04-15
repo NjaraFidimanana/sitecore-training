@@ -1,21 +1,30 @@
 ﻿---
-ID: "cbe3d3ff-b80c-4c5d-a9e2-8ef9201208e5"
+ID: "7ed7f385-c97e-45e4-a5e5-0ce68f294eb2"
 Parent: "87fa9326-4cb9-4721-9c28-f1746bb4f44f"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: /sitecore/layout/Renderings/Project/traineeA/Training/Banner
+Path: /sitecore/layout/Renderings/Project/traineeA/Training/HeroSlider
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
-  Value: Banner
+  Value: HeroSlider
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Apps/32x32/Certificate.png
+  Value: apps/32x32/investigation.png
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
-  Value: /sitecore/templates/Project/traineeA/Datasource/Banner
+  Value: /sitecore/templates/Project/traineeA/Datasource/Hero Slider
+- ID: "34e81e40-1d4d-45b0-bcf1-a0ffe5521685"
+  Hint: RenderingCssClass
+  Value: HeroSlider
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{3DF775BF-3F56-446F-9D81-43DE64DA4DDA}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: ./Page Components|/sitecore/content/JSS Sites/traineeA/Components/Banner Container
+  Value: ./Page Components
+- ID: "d01df626-2284-4bc6-a6ca-c0a3e6d2e844"
+  Hint: Parameters
+  Value: "className:test"
 Languages:
 - Language: en
   Versions:
@@ -23,14 +32,14 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20210408T141411Z
+      Value: 20210415T091152Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "03c66910-bc7c-4d07-b1da-f96bfebfd729"
+      Value: "72dbcf98-0482-453f-80af-f1574fbe224d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210415T085257Z
+      Value: 20210415T122404Z

@@ -1,12 +1,15 @@
 ﻿---
-ID: "dc61830b-9713-45fb-b0e1-c4131838e168"
-Parent: "61a90f50-3666-48b5-ae3b-99a6a2b15dd9"
+ID: "22800e8c-44f7-4691-a95a-69c448615fce"
+Parent: "221f063f-bff3-45c1-a620-0250a0d1cf70"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/traineeA/Datasource/Banner/Banner/Title
+Path: /sitecore/templates/Project/traineeA/Datasource/Hero Slider/Hero Slider/Hero Selection
 SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:./*"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: "Single-Line Text"
+  Value: Multilist
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
@@ -17,14 +20,14 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20210408T151529Z
+      Value: 20210415T090740Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "656af35f-d64e-4c36-b016-90e5e44550b5"
+      Value: "b4bffb91-affc-4343-81f4-e196ebc32b25"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210413T130525Z
+      Value: 20210415T091012Z
