@@ -26,6 +26,10 @@
 				{
 					"name":"Placeholder",
 					"path": "/sitecore/layout/Placeholder Settings/Project/traineeA"
+				},
+				{
+					"name":"Media",
+					"path": "/sitecore/media library/Project/JSS Sites/traineeA"
 				}
 			  ]
 	}
