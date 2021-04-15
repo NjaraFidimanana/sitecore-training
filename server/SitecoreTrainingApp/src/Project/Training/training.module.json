@@ -4,10 +4,6 @@
   "items": {
 			  "includes": [
 				{
-				  "name": "content",
-				  "path": "/sitecore/content/JSS Sites/traineeA"
-				},
-				{
 					 "name": "System",
 					 "path": "/sitecore/system/Settings/Services/API Keys/Training Key"
 				},
@@ -30,6 +26,10 @@
 				{
 					"name":"Media",
 					"path": "/sitecore/media library/Project/JSS Sites/traineeA"
+				},
+				{
+				  "name": "content",
+				  "path": "/sitecore/content/JSS Sites/traineeA"
 				}
 			  ]
 	}
