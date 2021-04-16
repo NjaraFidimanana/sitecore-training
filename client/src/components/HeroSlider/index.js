@@ -4,7 +4,10 @@ import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import classes from './HeroSlider.css';
 import Banner from '../Banner'
 const HeroSlider = (props) => {
-const heroSelection = props.fields['Hero Selection']
+let heroSelection = props.fields['Hero Selection']
+if(heroSelection === null || typeof heroSelection === 'undefined'){
+    heroSelection = props.fields.items;
+}
 const params =props.params;
     return (
         <div className="HeroSlider">

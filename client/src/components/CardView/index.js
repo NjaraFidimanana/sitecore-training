@@ -6,7 +6,7 @@ const CardView = (props) => (
         <li className="box-list-item box-logo-button-item">
             <a href={props.url}>
                 <div className="Logo">
-                <Image field={props.image.jss} className="ImgCard" width="300px" height="150px" />
+                <Image field={props.image} className="ImgCard" width="300px" height="150px" />
                 </div>
                 <div className="content">
                   <Text tag="h6" field={props.title} />

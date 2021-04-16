@@ -3,7 +3,6 @@ import { Placeholder} from '@sitecore-jss/sitecore-jss-react';
 import CardView from '../CardView'
 const History = (props) => {
   const histories = props.fields.data.item && props.fields.data.item.children;
-  console.log(histories);
   return (
       <div className="history-container">
           <span>History</span>

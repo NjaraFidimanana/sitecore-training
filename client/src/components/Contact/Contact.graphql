@@ -1,0 +1,27 @@
+query SearchQuery($keyword: String!)
+{
+  search(fieldsEqual:[
+    {name:"Role", value:$keyword }
+   ]) {
+    results {
+      items {
+        item {
+            ...on Contact{
+            name,
+            email{
+              value
+            },
+            phone{
+              value
+            },
+            role{
+              value
+            }
+      	}
+        }
+
+      }
+
+    }
+  }
+}
