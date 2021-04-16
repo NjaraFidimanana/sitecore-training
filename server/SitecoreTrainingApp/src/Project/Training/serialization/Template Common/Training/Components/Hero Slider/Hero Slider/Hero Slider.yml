@@ -1,0 +1,23 @@
+﻿---
+ID: "221f063f-bff3-45c1-a620-0250a0d1cf70"
+Parent: "182cd239-9d2e-4578-b6d0-bb1929096321"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Training/Components/Hero Slider/Hero Slider/Hero Slider
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210415T090740Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb95a9f6-d3f6-4668-84e0-3f723277b2bf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210415T132301Z

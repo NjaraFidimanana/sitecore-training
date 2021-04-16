@@ -1,8 +1,8 @@
 ﻿---
-ID: "7ed7f385-c97e-45e4-a5e5-0ce68f294eb2"
-Parent: "fc2d9e19-81e7-518a-b455-fa04c126730c"
+ID: "b01c1a5a-6548-4fd9-af3a-9c59d8733c4d"
+Parent: "578bb70d-f1e7-4c3d-a007-eae2d9a01fd8"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: /sitecore/layout/Renderings/Project/Training Final/HeroSlider
+Path: /sitecore/layout/Renderings/Project/Training Start/HeroSlider
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
@@ -15,7 +15,7 @@ SharedFields:
   Value: /sitecore/templates/Feature/Training/Components/Hero Slider/Hero Slider
 - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
-  Value: "{F2ED2DCB-EB09-4C50-9833-7F3A910AE477}"
+  Value: 
 - ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
   Hint: Rendering Contents Resolver
   Value: "{2F5C334E-5615-423C-8281-9FC180191302}"
@@ -27,7 +27,7 @@ SharedFields:
   Value: 2063
 - ID: "d01df626-2284-4bc6-a6ca-c0a3e6d2e844"
   Hint: Parameters
-  Value: "className:test"
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -38,7 +38,7 @@ Languages:
       Value: 20210415T091152Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c3de0803-409f-47f8-9463-ad6b3988d196"
+      Value: "9c7651f4-89a1-4c4f-88bd-47831e942623"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |

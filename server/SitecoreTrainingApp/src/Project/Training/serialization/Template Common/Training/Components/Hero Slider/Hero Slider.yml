@@ -1,8 +1,8 @@
 ﻿---
 ID: "182cd239-9d2e-4578-b6d0-bb1929096321"
-Parent: "fbf9a806-58c3-4776-b8b9-9347c41b85e3"
+Parent: "fb021ad9-9ccb-422b-9adb-631af5d2742f"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/Training Final/Components/Hero Slider/Hero Slider
+Path: /sitecore/templates/Feature/Training/Components/Hero Slider/Hero Slider
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon

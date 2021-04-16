@@ -2,7 +2,7 @@
 ID: "0d789da4-03e4-4e5e-ab4d-8e2fbdc9fe1d"
 Parent: "182cd239-9d2e-4578-b6d0-bb1929096321"
 Template: "182cd239-9d2e-4578-b6d0-bb1929096321"
-Path: /sitecore/templates/Project/Training Final/Components/Hero Slider/Hero Slider/__Standard Values
+Path: /sitecore/templates/Feature/Training/Components/Hero Slider/Hero Slider/__Standard Values
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
