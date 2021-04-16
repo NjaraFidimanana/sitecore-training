@@ -14,6 +14,14 @@ Languages:
     - ID: "4160166e-ab53-4dc7-a12a-6d0539a7b6d5"
       Hint: Role
       Value: Head
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
     - ID: "74b1da4b-3e35-4fc2-8424-01584d1b69eb"
       Hint: Phone
       Value: +96333984122

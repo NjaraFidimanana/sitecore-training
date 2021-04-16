@@ -1,0 +1,37 @@
+query SearchQuery($keyword: String!,$rootItem: String!)
+{
+  search(keyword:$keyword ,fieldsEqual:[
+    {name:"_Queryable",value:"1"},
+  ] ,rootItem:$rootItem , facetOn:"_template") {
+    results {
+      items {
+      templateName
+        item {
+            
+ 					title: field(name: "title") {
+            value
+          },
+          description:field(name: "description") {
+            value
+          },
+          image:field(name: "image") {
+            jss
+          },
+          
+        }
+
+      }
+
+    }
+    facets {
+      name
+      values(hideEmpty: true) {
+        count
+        item {
+          displayName
+          icon
+        }
+      }
+    }
+  }
+}

@@ -22,6 +22,10 @@ Languages:
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
     - ID: "5760ac72-70de-5d34-b3f6-7a2c717f4415"
       Hint: heading
       Value: Image
@@ -29,6 +33,10 @@ Languages:
       Hint: sample1
       Value: |
         <image alt="Sitecore Logo" mediaid="{8E01EB2F-4AE8-596E-A70B-865EA1C17A0A}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5c08609a-ed25-4b70-8516-e9efa812cb39"

@@ -1,0 +1,9 @@
+.Logo img{
+    width: 100px;
+}
+.Card{
+    border-bottom-style: solid;
+    margin-bottom: 7px;
+    border-bottom-color: lightcoral;
+    width: 200px;
+}

@@ -17,6 +17,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20210415T140118Z
+    - ID: "416eeef7-d075-4372-8177-7d74e116e4ad"
+      Hint: _Queryable
+      Value: 1
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -27,11 +30,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "28f8dc6f-b3ad-4e2e-a7b7-e4413ecad023"
+      Value: "559b3dd1-63ad-4d7f-a3ea-90bc170aa45e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210415T140809Z
+      Value: 20210416T162929Z
