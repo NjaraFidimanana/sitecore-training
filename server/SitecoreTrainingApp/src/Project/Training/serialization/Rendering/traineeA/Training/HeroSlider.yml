@@ -12,10 +12,10 @@ SharedFields:
   Value: apps/32x32/investigation.png
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
-  Value: /sitecore/templates/Project/traineeA/Datasource/Hero Slider
-- ID: "34e81e40-1d4d-45b0-bcf1-a0ffe5521685"
-  Hint: RenderingCssClass
-  Value: HeroSlider
+  Value: /sitecore/templates/Project/traineeA/Components/Hero Slider/Hero Slider
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{F2ED2DCB-EB09-4C50-9833-7F3A910AE477}"
 - ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
   Hint: Rendering Contents Resolver
   Value: "{2F5C334E-5615-423C-8281-9FC180191302}"
@@ -35,11 +35,11 @@ Languages:
       Value: 20210415T091152Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bb684a6e-4679-4537-8160-45f1eecead34"
+      Value: "94ba7918-7280-47ff-9c32-0d50a5118e85"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210416T101954Z
+      Value: 20210416T130254Z

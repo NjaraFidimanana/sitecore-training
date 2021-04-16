@@ -20,16 +20,8 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{C14F9872-4E8A-5669-880A-5B97D3166E9F}"
-              p:after="p[@uid='{73E59F5B-776E-5849-80A1-67A9DB2FDE26}']"
-              s:rname="HeroComponent"
-              s:ds="{114EA9A5-791D-522B-BE4B-78CCDEB47346}"
-              s:id="{8BB96FD7-1308-5FFC-BD1E-24F13FF19E7B}"
-              s:par=""
-              s:ph="/jss-main" />
-            <r
               uid="{EC15AD7B-ED4B-5ECF-8006-FB7BE6D5CB94}"
-              p:after="r[@uid='{C14F9872-4E8A-5669-880A-5B97D3166E9F}']"
+              p:after="p[@uid='{73E59F5B-776E-5849-80A1-67A9DB2FDE26}']"
               s:rname="ContentBlock"
               s:ds="{99820FC8-7E61-56AD-8022-9551972BCA4F}"
               s:id="{537408B4-E3F6-56FF-8665-0D0214DCD1E7}"
@@ -263,7 +255,7 @@ Languages:
               s:rname="Styleguide-ComponentParams"
               s:ds="{F7A6A1A0-A20C-5446-9293-B5B4B553ACC3}"
               s:id="{21D0B9FB-5ED3-572F-8B75-7C626DD07970}"
-              s:par="cssClass=alert+alert-success&amp;columns=5&amp;useCallToAction=true"
+              s:par="useCallToAction=true&amp;columns=5&amp;cssClass=alert+alert-success"
               s:ph="/jss-main/jss-styleguide-layout-{E0BDCAF3-AC61-5B2C-B97F-4D4522C46408}-0/jss-styleguide-section-{6CC64025-C5DB-53A4-AC01-A764FC5470C2}-0" />
             <r
               uid="{87192ADB-3E71-53E1-9B16-28D678C2E2A6}"
@@ -302,11 +294,11 @@ Languages:
       Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8be39c12-1849-4447-9d94-6f5aa1938bc5"
+      Value: "2c4e5506-5901-41ed-a321-7b475cda30c1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210413T092535Z
+      Value: 20210416T125119Z
