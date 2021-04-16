@@ -8,24 +8,36 @@
 					 "path": "/sitecore/system/Settings/Services/API Keys/Training Key"
 				},
 				{
-					"name": "Template",
-					 "path": "/sitecore/templates/Project/traineeA"
+					"name": "Template Common",
+					 "path": "/sitecore/templates/Feature/Training"
 				},
 				{
-					"name": "Rendering",
-					 "path": "/sitecore/layout/Renderings/Project/traineeA"
+					"name": "Template Final",
+					 "path": "/sitecore/templates/Project/Training Final"
 				},
 				{
-					"name":"Layout",
-					"path": "/sitecore/layout/Layouts/Project/traineeA"
+					"name": "Rendering Common",
+					 "path": "/sitecore/layout/Renderings/Feature/Training"
 				},
 				{
-					"name":"Placeholder",
-					"path": "/sitecore/layout/Placeholder Settings/Project/traineeA"
+					"name": "Rendering Final",
+					 "path": "/sitecore/layout/Renderings/Project/Training Final"
+				},
+				{
+					"name":"Layout Common",
+					"path": "/sitecore/layout/Layouts/Feature/Training"
+				},
+				{
+					"name":"Placeholder Common",
+					"path": "/sitecore/layout/Placeholder Settings/Feature/Training"
+				},
+				{
+					"name":"Placeholder Final",
+					"path": "/sitecore/layout/Placeholder Settings/Project/Training Final"
 				},
 				{
 					"name":"Media",
-					"path": "/sitecore/media library/Project/JSS Sites/traineeA"
+					"path": "/sitecore/media library/Training"
 				},
 				{
 				  "name": "content",

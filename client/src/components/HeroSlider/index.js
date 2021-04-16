@@ -11,7 +11,7 @@ if(heroSelection === null || typeof heroSelection === 'undefined'){
 const params =props.params;
     return (
         <div className="HeroSlider">
-            <p className={params.class}>Hero Slider</p>
+            <p className={params.TextColor}>Hero Slider</p>
             <Carousel showArrows={true}>
                 {heroSelection && heroSelection.map((item,index)=>(
                     <Banner key={index} {...item}></Banner>

@@ -27,18 +27,18 @@ Languages:
       Value: File
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "47f56f7b-59f1-4dfc-8fb1-c192fb4c9ae5"
+      Value: "f8ac4b02-649c-49aa-aeda-7d7347dde8a6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d34ab40c-dd61-52af-96af-59e0d514f75d"
       Hint: file
       Value: |
-        <file mediaid="{6A32340D-DBB8-54DE-B6E1-9F738B268C5F}" />
+        <file mediaid="{6A32340D-DBB8-54DE-B6E1-9F738B268C5F}" src="-/media/6A32340DDBB854DEB6E19F738B268C5F.ashx" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210413T092534Z
+      Value: 20210416T143114Z
     - ID: "e97f28d6-06c5-55c6-9959-cd43a4200139"
       Hint: description
       Value: |

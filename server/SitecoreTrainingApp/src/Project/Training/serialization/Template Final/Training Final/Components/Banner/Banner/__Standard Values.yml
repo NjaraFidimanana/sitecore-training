@@ -1,0 +1,31 @@
+﻿---
+ID: "d48be396-30fc-41c5-bee9-76a23c4135b6"
+Parent: "17d27de5-06d0-413a-89f1-8fa1150c6778"
+Template: "17d27de5-06d0-413a-89f1-8fa1150c6778"
+Path: /sitecore/templates/Project/Training Final/Components/Banner/Banner/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210408T151413Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e90df6f-4c29-498d-a6a9-0b1330e63bfa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210408T151413Z
