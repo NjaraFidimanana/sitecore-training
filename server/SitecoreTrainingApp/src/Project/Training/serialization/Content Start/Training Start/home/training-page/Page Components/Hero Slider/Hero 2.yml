@@ -1,0 +1,37 @@
+﻿---
+ID: "27ab5a91-79c0-4241-9220-83f87a8fc1c3"
+Parent: "b0b5433a-9de5-4528-9c7e-8e804aed47ee"
+Template: "a00b0512-2527-4cf9-8f26-bc679f64a184"
+Path: "/sitecore/content/JSS Sites/Training Start/home/training-page/Page Components/Hero Slider/Hero 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a08f710-021a-41fb-af75-82368516d80b"
+      Hint: Image
+      Value: |
+        <image mediaid="{6D8EA7E1-F47A-4B51-9E9C-7754D620A464}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210415T093320Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49339f5f-b812-4f5c-8891-23990aa12eaf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210415T103422Z
+    - ID: "dc61830b-9713-45fb-b0e1-c4131838e168"
+      Hint: Title
+      Value: "Hero 2 : LuxXPrime"
+    - ID: "e563feed-0669-4444-8134-013264650a37"
+      Hint: Cta
+      Value: |
+        <link text="Go to luxxprime" linktype="external" url="https://www.luxxprime.com/" anchor="" target="_blank" />
+    - ID: "fe02f094-c5b9-4fed-9984-b723ede1da4f"
+      Hint: Description
+      Value: "The new bond trading destination of LuxSE: Competitive spreads. Firm Prices. Quality retail-sized trading."

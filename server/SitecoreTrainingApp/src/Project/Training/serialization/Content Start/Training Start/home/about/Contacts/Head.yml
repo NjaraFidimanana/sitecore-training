@@ -1,0 +1,23 @@
+﻿---
+ID: "6cafe9cc-a2a9-4b9d-8fb1-de91dc624105"
+Parent: "09edd578-4ac1-4310-9c6c-4350c55e74cb"
+Template: "0766a953-682c-4fee-8b75-ba3d7d27bc19"
+Path: /sitecore/content/JSS Sites/Training Start/home/about/Contacts/Head
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210416T081656Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c17cd44f-2d70-40c5-abf5-6db0c7ef7ed2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210416T081656Z

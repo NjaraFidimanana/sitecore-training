@@ -1,0 +1,44 @@
+﻿---
+ID: "7de782f3-55af-4302-b60a-034bd82c8c76"
+Parent: "1401f9a5-2b11-4ae7-af97-33a97bf39347"
+Template: "3aa62870-d7c8-512b-8cf2-5bf967a2d19b"
+Path: "/sitecore/content/JSS Sites/Training Start/home/styleguide/Page Components/styleguide-jss-styleguide-section-FAEDB126CC4784055478EC08EB96208DA7645CE7120E532B317B415709776D5BF1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Text-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210413T092533Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "5760ac72-70de-5d34-b3f6-7a2c717f4415"
+      Hint: heading
+      Value: "Single-Line Text"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17e16830-c96c-4309-974f-41f364afdf95"
+    - ID: "a481638a-7c27-5e05-8ccb-023b8a2d29e3"
+      Hint: sample
+      Value: |
+        This is a sample text field. <mark>HTML is encoded.</mark> In Sitecore, editors will see a <input type="text">.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210413T092533Z
+    - ID: "e5bbd9f1-d2d3-571e-9c64-9a5ca4971173"
+      Hint: sample2
+      Value: This is another sample text field using rendering options. <mark>HTML supported with encode=false.</mark> Cannot edit because editable=false.

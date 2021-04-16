@@ -1,0 +1,49 @@
+﻿---
+ID: "afe7c2f0-0755-4dfc-a9a3-3fae07f8dd12"
+Parent: "1401f9a5-2b11-4ae7-af97-33a97bf39347"
+Template: "aea93a06-3f7e-5ddf-b67f-cc7fa6c085ce"
+Path: "/sitecore/content/JSS Sites/Training Start/home/styleguide/Page Components/styleguide-jss-styleguide-section-FA41BDD535D69C233CDF6A5CEBCDAC512E52A6DE80232CF00BCD5FCD83199B1356"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Date-8"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210413T092534Z
+    - ID: "2e669d0b-0125-5822-9ffc-cbe1e36ffe23"
+      Hint: date
+      Value: 20120504T000000Z
+    - ID: "350ad8e4-2da8-5dc9-87d0-681d26f7a221"
+      Hint: dateTime
+      Value: 20180314T150000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "5760ac72-70de-5d34-b3f6-7a2c717f4415"
+      Hint: heading
+      Value: Date
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "745aa319-3ce2-43e9-b743-2ca2fb3bedec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210413T092534Z
+    - ID: "e97f28d6-06c5-55c6-9959-cd43a4200139"
+      Hint: description
+      Value: |
+        <p><small>Both <code>Date</code> and <code>DateTime</code> field types are available. Choosing <code>DateTime</code> will make Sitecore show editing UI for time; both types store complete date and time values internally. Date values in JSS are formatted using <a href="https://en.wikipedia.org/wiki/ISO_8601#Combined_date_and_time_representations" target="_blank">ISO 8601 formatted strings</a>, for example <code>2012-04-23T18:25:43.511Z</code>.</small></p>
+        <div class="alert alert-warning"><small>Note: this is a JavaScript date format (e.g. <code>new Date().toISOString()</code>), and is different from how Sitecore stores date field values internally. Sitecore-formatted dates will not work.</small></div>
+        

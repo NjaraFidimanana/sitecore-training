@@ -12,12 +12,20 @@
 					 "path": "/sitecore/templates/Feature/Training"
 				},
 				{
+					"name": "Template Start",
+					 "path": "/sitecore/templates/Project/Training Start"
+				},
+				{
 					"name": "Template Final",
 					 "path": "/sitecore/templates/Project/Training Final"
 				},
 				{
 					"name": "Rendering Common",
 					 "path": "/sitecore/layout/Renderings/Feature/Training"
+				},
+				{
+					"name": "Rendering Start",
+					 "path": "/sitecore/layout/Renderings/Project/Training Start"
 				},
 				{
 					"name": "Rendering Final",
@@ -32,6 +40,10 @@
 					"path": "/sitecore/layout/Placeholder Settings/Feature/Training"
 				},
 				{
+					"name":"Placeholder Start",
+					"path": "/sitecore/layout/Placeholder Settings/Project/Training Start"
+				},
+				{
 					"name":"Placeholder Final",
 					"path": "/sitecore/layout/Placeholder Settings/Project/Training Final"
 				},
@@ -40,7 +52,11 @@
 					"path": "/sitecore/media library/Training"
 				},
 				{
-				  "name": "content",
+				  "name": "Content Start",
+				  "path": "/sitecore/content/JSS Sites/Training Start"
+				},
+				{
+				  "name": "Content Final",
 				  "path": "/sitecore/content/JSS Sites/traineeA"
 				}
 			  ]
