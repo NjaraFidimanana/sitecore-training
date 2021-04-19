@@ -23,22 +23,22 @@ SharedFields:
         item(path:$datasource) {
           id
         children{
-                ...on BasePage {           
-              url(options:{alwaysIncludeServerUrl:true})
-              title {
-                value
-              }
-              description {
-                value
-              }
-              image{
-                jss
-           	  }
+             url(options:{alwaysIncludeServerUrl:true})
+              ...on BasePage { 
+                title {
+                  value
+                }
+                description {
+                  value
+                }
+                image{
+                  jss
+                }
+                
           }
         }
         }
     }
-    
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 2382
@@ -52,11 +52,11 @@ Languages:
       Value: 20210415T135254Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8537864b-83aa-4e92-b302-c109f49c4e11"
+      Value: "31d3df07-b7d9-40b2-9c5e-722c042d250f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210416T141445Z
+      Value: 20210416T215724Z
