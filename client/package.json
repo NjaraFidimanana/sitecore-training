@@ -11,8 +11,7 @@
     "sitecoreDistPath": "/dist/TrainingFinal",
     "sitecoreConfigPath": "/App_Config/Include/zzz",
     "graphQLEndpointPath": "/api/TrainingFinal",
-    "language": "en",
-    "tunnelUrl": "http://jss.ngrok.io"
+    "language": "en"
   },
   "engines": {
     "node": ">=8.1",

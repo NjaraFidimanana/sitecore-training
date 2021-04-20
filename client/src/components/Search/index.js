@@ -1,7 +1,7 @@
 import React ,{ Component } from 'react';
 import { loader as gqlLoader } from 'graphql.macro';
 import GraphQLData from '../../lib/GraphQLData';
-import { RichText, Text , Image} from '@sitecore-jss/sitecore-jss-react';
+import { withSitecoreContext } from '@sitecore-jss/sitecore-jss-react'
 import CardView from '../CardView'
 import './Search.css';
 const ConnectedSearchQuery = gqlLoader('./Search.graphql');
@@ -37,16 +37,18 @@ class Search extends Component {
     handleInputChange = (event) => {
         event.preventDefault();
         var keyword = (event.target && event.target.value) || '';
+        const sitename =this.props.sitecoreContext.site.name;
         this.timeout = setTimeout(() => {
             this.props.SearchQuery.refetch({
                 keyword: keyword,
-                rootItem: '/sitecore/content/JSS Sites/traineeA/home'})
+                rootItem: `/sitecore/content/JSS Sites/${sitename}/home`})
             },500);
       };
 }
-const wrappedComponent=((props) => {
+const wrappedComponent=withSitecoreContext()(({ sitecoreContext }) => {
+    /* console.log('sitename2',props.sitecoreContext.site.name);*/
     const WrappedComponent = GraphQLData(ConnectedSearchQuery, { name: 'SearchQuery' ,  options: {
-        variables: {keyword:'',rootItem:'/sitecore/content/JSS Sites/traineeA/home'}}})(Search);
+        variables: {keyword:'',rootItem:`/sitecore/content/JSS Sites/${sitecoreContext.site.name}/home`}}})(Search);
         return <WrappedComponent />;
 });
 export default wrappedComponent;
