@@ -2,7 +2,7 @@
 ID: "b4a14279-2ec2-54d7-9217-156852ff235c"
 Parent: "3ab7b52b-12d1-535e-808d-86fbf34e6bcd"
 Template: "b90095dc-8bc2-5ccc-a231-258f4070e1ab"
-Path: "/sitecore/content/JSS Sites/traineeA/home/styleguide/Page Components/styleguide-jss-styleguide-section-FA16F5AA683395E1434C434E0016CD2676D7C2F93CABADA7FD05ACFD98C286CAB6"
+Path: "/sitecore/content/JSS Sites/TrainingFinal/home/styleguide/Page Components/styleguide-jss-styleguide-section-FA16F5AA683395E1434C434E0016CD2676D7C2F93CABADA7FD05ACFD98C286CAB6"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
@@ -26,7 +26,7 @@ Languages:
     - ID: "34d9db3e-5133-53a0-a6a9-33a79374fb39"
       Hint: internalLink
       Value: |
-        <link linktype="internal" id="{6C4F1A01-ECD2-5D93-99C8-2A400402329A}" />
+        <link linktype="internal" id="{6C4F1A01-ECD2-5D93-99C8-2A400402329A}" url="/JSS Sites/TrainingFinal/home" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
@@ -39,18 +39,18 @@ Languages:
         <link text="Send an Email" url="mailto:foo@bar.com" linktype="mailto" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "beea0947-34e1-4596-b1b9-f49ca0addcdf"
+      Value: "f2ecbcf4-3510-42a5-a0fc-45c212bdd3c1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d949da9a-727d-5583-9d2f-e9349b222de1"
       Hint: paramsLink
       Value: |
         <link target="_blank" text="Sitecore Dev Site" title="&lt;a&gt; title attribute" url="https://dev.sitecore.net" class="font-weight-bold" linktype="external" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210413T092534Z
+      Value: 20210420T134446Z
     - ID: "e97f28d6-06c5-55c6-9959-cd43a4200139"
       Hint: description
       Value: <p>A <em>General Link</em> is a field that represents an <code>&lt;a&gt;</code> tag.</p>

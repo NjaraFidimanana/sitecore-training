@@ -11,8 +11,8 @@ Languages:
     - ID: "22800e8c-44f7-4691-a95a-69c448615fce"
       Hint: Hero Selection
       Value: |
-        {B15F05DE-499B-4294-AB1B-987A73221EE7}
-        {F154A69E-5C97-4668-8503-24AEE3CE5827}
+        {6472BF8A-00FD-40E2-808E-5B20D689461F}
+        {27AB5A91-79C0-4241-9220-83F87A8FC1C3}
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20210415T093206Z
@@ -26,11 +26,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a7e4323c-75e4-4370-9299-91bb09ff57e3"
+      Value: "8e9acd0c-189d-4fc7-b4a3-3cfb06d5f197"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210415T093401Z
+      Value: 20210419T085943Z
