@@ -28,11 +28,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "52b55c69-1cc9-4f6a-97e3-3d9747182017"
+      Value: "60b0bccd-6675-4c3c-b477-12eeb74058b3"
+    - ID: "b59043a1-fb55-4338-aa1d-82e42cf7da46"
+      Hint: Title
+      Value: $name
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210416T085025Z
+      Value: 20210420T152028Z
