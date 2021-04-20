@@ -12,7 +12,7 @@ const params =props.params;
     return (
         <div className="HeroSlider">
             <p style={{color:params.TextColor}}>Hero Slider</p>
-            <Carousel showArrows={params.ShowArrows}>
+            <Carousel showArrows={!!params.ShowArrows}>
                 {heroSelection && heroSelection.map((item,index)=>(
                     <Banner key={index} {...item}></Banner>
                     ))
