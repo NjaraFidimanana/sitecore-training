@@ -12,7 +12,10 @@ if(heroSelection === null || typeof heroSelection === 'undefined'){
 const params =props.params;
     return (
         <div className="HeroSlider">
-            <p className={params.TextColor}>Hero Slider</p>
+                {/* Retrieve parameter from sitecore
+                  <p style={{color:params.TextColor}}>Hero Slider</p>
+                   <Carousel showArrows={!!params.ShowArrows}>*/}
+            <p>Hero Slider</p>
             <Carousel showArrows={true}>
                 {heroSelection && heroSelection.map((item,index)=>(
                     /* Uncomment Banner and remove the section*/
