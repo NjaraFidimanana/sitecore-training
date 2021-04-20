@@ -2,7 +2,7 @@
 ID: "0a6e0413-41a8-4e52-b278-457e18595a31"
 Parent: "b6e44dea-071d-4093-be7a-223a21aa74e0"
 Template: "b6e44dea-071d-4093-be7a-223a21aa74e0"
-Path: /sitecore/templates/Project/Training Final/Pages/Base Page/__Standard Values
+Path: /sitecore/templates/Feature/Training/Pages/Base Page/__Standard Values
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -30,11 +30,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "559b3dd1-63ad-4d7f-a3ea-90bc170aa45e"
+      Value: "94fc4c65-2871-462a-a5e8-0755ecc89208"
+    - ID: "b59043a1-fb55-4338-aa1d-82e42cf7da46"
+      Hint: Title
+      Value: @name
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210416T162929Z
+      Value: 20210419T143548Z

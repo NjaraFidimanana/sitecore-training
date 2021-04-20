@@ -1,8 +1,8 @@
 ﻿---
 ID: "b6e44dea-071d-4093-be7a-223a21aa74e0"
-Parent: "f06d1f31-99ed-40b7-bc71-430da5e3604d"
+Parent: "17ec12b8-f802-420d-885e-62be2770eea3"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/Training Final/Pages/Base Page
+Path: /sitecore/templates/Feature/Training/Pages/Base Page
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon

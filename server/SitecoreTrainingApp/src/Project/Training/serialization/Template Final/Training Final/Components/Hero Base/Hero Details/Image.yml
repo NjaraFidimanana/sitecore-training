@@ -1,15 +1,18 @@
 ﻿---
-ID: "dc61830b-9713-45fb-b0e1-c4131838e168"
+ID: "0a08f710-021a-41fb-af75-82368516d80b"
 Parent: "998c27ed-6cfe-4292-8e6b-40f24b681846"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/Training Final/Components/Hero Base/Hero Base/Title
+Path: /sitecore/templates/Project/Training Final/Components/Hero Base/Hero Details/Image
 SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: /sitecore/media library/Project/JSS Sites
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: "Single-Line Text"
+  Value: Image
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 400
 Languages:
 - Language: en
   Versions:
@@ -20,11 +23,11 @@ Languages:
       Value: 20210408T151529Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "49a89353-4d85-4f16-a6ae-3d9d07e620e0"
+      Value: "40a379c9-afad-4f60-a543-2d6d837df907"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210415T130543Z
+      Value: 20210415T103137Z

@@ -1,8 +1,8 @@
 ﻿---
-ID: "998c27ed-6cfe-4292-8e6b-40f24b681846"
-Parent: "a00b0512-2527-4cf9-8f26-bc679f64a184"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/Training Final/Components/Hero Base/Hero Base
+ID: "289b3409-5311-4dca-b646-d8ba906beb01"
+Parent: "b04fdd7a-516b-4e1f-b606-76d020ad4a8a"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Training Start/Components
 Languages:
 - Language: en
   Versions:
@@ -10,14 +10,14 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20210415T090031Z
+      Value: 20210419T091804Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f27df56c-fd23-4ce7-87b0-f80570e49990"
+      Value: "54d90781-19d0-41a9-b4f1-13f14730e738"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210415T103137Z
+      Value: 20210419T091804Z
