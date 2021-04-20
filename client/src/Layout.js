@@ -73,7 +73,15 @@ const Layout = ({ route }) => (
 
     {/* root placeholder for the app, which we add components to using route data */}
     <div className="container">
-      <Placeholder name="jss-main" rendering={route} />
+      {/* Exercice 3 : Placeholder uncomment jss-main placeholder to bind the component into the placeholder */}
+      {/*<Placeholder name="jss-main-X" rendering={route} />*/}
+      {/* Exercice 2 : Component -- Create a Banner component and remove this section */}
+      <div className="Banner_Banner__N18cN">
+        <h3>JSS training</h3>
+        <p>Banner using datasource&nbsp;</p>
+        <img alt="sitecore jss" width="500" height="250" className="Banner_Image__16IBl" src="https://via.placeholder.com/500x250?text=Banner%20Training"/>
+          <a href="" className="Banner_BtnBanner__z92h4"><span></span></a>
+      </div>
     </div>
   </React.Fragment>
 );
