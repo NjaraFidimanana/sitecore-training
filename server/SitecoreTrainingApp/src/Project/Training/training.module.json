@@ -29,7 +29,7 @@
 				},
 				{
 					"name": "Rendering Final",
-					 "path": "/sitecore/layout/Renderings/Project/Training Final"
+					 "path": "/sitecore/layout/Renderings/Project/TrainingFinal"
 				},
 				{
 					"name":"Layout Common",
@@ -57,7 +57,7 @@
 				},
 				{
 				  "name": "Content Final",
-				  "path": "/sitecore/content/JSS Sites/traineeA"
+				  "path": "/sitecore/content/JSS Sites/TrainingFinal"
 				}
 			  ]
 	}

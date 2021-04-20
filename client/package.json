@@ -4,13 +4,13 @@
   "version": "16.0.0",
   "private": true,
   "config": {
-    "appName": "traineeA",
+    "appName": "TrainingFinal",
     "rootPlaceholders": [
       "jss-main"
     ],
-    "sitecoreDistPath": "/dist/traineeA",
+    "sitecoreDistPath": "/dist/TrainingFinal",
     "sitecoreConfigPath": "/App_Config/Include/zzz",
-    "graphQLEndpointPath": "/api/traineeA",
+    "graphQLEndpointPath": "/api/TrainingFinal",
     "language": "en",
     "tunnelUrl": "http://jss.ngrok.io"
   },

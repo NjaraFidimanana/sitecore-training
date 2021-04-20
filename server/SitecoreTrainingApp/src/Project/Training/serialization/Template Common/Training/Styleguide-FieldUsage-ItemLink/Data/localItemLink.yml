@@ -6,7 +6,7 @@ Path: "/sitecore/templates/Feature/Training/Styleguide-FieldUsage-ItemLink/Data/
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/JSS Sites/traineeA
+  Value: /sitecore/content/JSS Sites/TrainingFinal
 - ID: "39847666-389d-409b-95bd-f2016f11eed5"
   Hint: Unversioned
   Value: 0
@@ -40,11 +40,11 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0367706a-3f72-40be-8935-4fe52ac0b15a"
+      Value: "72cfc71e-b840-422e-9079-8884319e7000"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210413T092529Z
+      Value: 20210420T134446Z

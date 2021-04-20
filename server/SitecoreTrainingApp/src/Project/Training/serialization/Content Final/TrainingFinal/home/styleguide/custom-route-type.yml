@@ -1,0 +1,58 @@
+﻿---
+ID: "636cc25f-ad1c-50fd-9ae1-10266c86498d"
+Parent: "c9a60949-cb27-546d-b66e-2ba7c8a110b4"
+Template: "8402da9c-c49c-5435-9be7-9ca9e8ff036e"
+Path: "/sitecore/content/JSS Sites/TrainingFinal/home/styleguide/custom-route-type"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{621128A6-CC4D-5287-8ED6-E4A89A7DBBDB}"
+              p:after="*[1=2]"
+              s:rname="Styleguide-CustomRouteType"
+              s:id="{F14B9BCC-AD27-5A51-AD59-978BB00DD55A}"
+              s:par=""
+              s:ph="/jss-main" />
+          </d>
+        </r>
+    - ID: "0e1e2d46-2bf4-5935-a503-b64ef6da7301"
+      Hint: pageTitle
+      Value: Custom Route Type | Sitecore JSS
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210413T092535Z
+    - ID: "32556318-6840-50a5-b87f-551d78242e5a"
+      Hint: headline
+      Value: "A Treatise on Route-Level Fields in JSS"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "6651810e-de23-5bc1-991e-339d095aa259"
+      Hint: author
+      Value: Myrtle
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "811c59e8-16b0-4d3c-b33d-6f587ce140e6"
+    - ID: "aabf2b6c-2cdc-5e0e-8e94-0d4ce788be2e"
+      Hint: content
+      Value: "<p>Custom route type fields are good for things like articles, where you may wish to have a filter UI on content fields, such as author or category. Route level fields are easy to query against, whereas component-level fields are not because it's possible to remove a component from a route. Note that route level fields <em>cannot be personalized</em> because you cannot conditionally swap out the route item for a different content item.</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210413T092535Z
